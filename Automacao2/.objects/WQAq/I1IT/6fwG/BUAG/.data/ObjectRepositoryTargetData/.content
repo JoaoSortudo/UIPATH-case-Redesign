@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XEEsehYRxUWNOjX4AHDzkw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="0f4a47db-faa6-4990-8aa3-89facb2a7ebd" CvElementArea="663, 662, 300, 33" CvType="InputBox" DesignTimeRectangle="666, 669, 295, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i31 i34' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="1e546177-edff-45f5-9ebb-e64a1713828c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0f4a47db-faa6-4990-8aa3-89facb2a7ebd" CvTextArea="665, 592, 50, 15" CvTextArgument="Moeda" CvType="Text" DesignTimeRectangle="666, 589, 49, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i31' tag='SPAN' type='' class='M7eMe' aaname='Moeda' check:innerText='Moeda' /&gt;" Guid="878a01f2-59c3-42b9-b360-afd4ac6ded9f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9985c8306cfb1e1521282377106af9c2.png" xmlns="">0wKtoPv3SKkaBfaK9tRlwhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

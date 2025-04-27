@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Moeda",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "BUAGil7tFUa6xNNO5u-NBw",
+  "Reference": "4A76muYXPEOUgU0qw5e9qQ/BUAGil7tFUa6xNNO5u-NBw",
+  "ParentRef": "4A76muYXPEOUgU0qw5e9qQ/6fwGgCH9bEqX6dOFJ1BtCg",
+  "Created": "2025-04-27T20:56:47.8218263Z",
+  "Updated": "2025-04-27T20:56:47.8218263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

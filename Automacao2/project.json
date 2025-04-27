@@ -4,6 +4,7 @@
   "description": "Extrair dados que subiram para a fila e preencher o forms de maneira adequada. Após o termino com êxito, enviar um e-mail indicando o sucesso.",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.GSuite.Activities": "[3.1.1-preview]",
     "UiPath.System.Activities": "[25.2.1]",
     "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
