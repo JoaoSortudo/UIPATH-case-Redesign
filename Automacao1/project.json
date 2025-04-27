@@ -4,7 +4,8 @@
   "description": "Projeto para extração de dados do site e envio para a fila no Orchestrator.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.2.1]"
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
   "webServices": [],
   "entitiesStores": [],

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome UiPath RPA Conhecimento",
+  "Type": "App",
+  "Id": "KdbwCp06pkqG7RiCX6WJUw",
+  "Reference": "SFB8TrswDkmnYPH5Gktpxg/KdbwCp06pkqG7RiCX6WJUw",
+  "Created": "2025-04-26T19:55:45.6942755Z",
+  "Updated": "2025-04-26T19:55:45.6942755Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

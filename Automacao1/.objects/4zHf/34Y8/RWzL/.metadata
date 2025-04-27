@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sales Opportunities",
+  "Type": "Screen",
+  "Id": "RWzL5nFozUKo7_sB4hb4Ng",
+  "Reference": "SFB8TrswDkmnYPH5Gktpxg/RWzL5nFozUKo7_sB4hb4Ng",
+  "ParentRef": "SFB8TrswDkmnYPH5Gktpxg/34Y8ObJJp0Wo2cg00gq_xg",
+  "Created": "2025-04-26T18:50:03.0441221Z",
+  "Updated": "2025-04-26T18:50:03.0441221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
