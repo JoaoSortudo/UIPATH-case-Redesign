@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IetZ2KAl4UexfR6XLiVA_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="b10c677f-70b3-4bc3-a7f7-d33901d76c21" CvTextArea="1007, 657, 122, 16" CvTextArgument="Limpar formulário" CvType="Text" DesignTimeRectangle="1008, 646, 121, 36" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Limpar formulário' type='' tag='SPAN' class='NPEfkd RveJvd snByac' check:innerText='Limpar formulário' /&gt;" Guid="558da76e-fdca-4489-a378-3e7329428d59" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b10c677f-70b3-4bc3-a7f7-d33901d76c21" CvTextArea="1007, 657, 122, 16" CvTextArgument="Limpar formulário" CvType="Text" DesignTimeRectangle="1000, 646, 137, 36" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' class='uArJ5e UQuaGc kCyAyd ARrCac' tag='DIV' aaname='' check:innerText='Limpar formulário' /&gt;" Guid="1a6a27b6-5b0e-471e-9ea7-ec7ba871f88b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6da522779d10a9b905840838f8ae203c.png" xmlns="">0lpAYvzJEqUy9hKPglPcrPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
