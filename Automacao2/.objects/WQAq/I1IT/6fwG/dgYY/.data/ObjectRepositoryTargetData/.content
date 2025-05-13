@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="jU-RFrIzBUa4GuQbUmCF5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/formResponse" CVScreenId="ba709c93-83b5-4676-811d-9317f9a315e0" CvTextArea="672, 473, 133, 16" CvTextArgument="Enviar outra resposta" CvType="Text" DesignTimeRectangle="673, 472, 132, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Enviar outra resposta' check:innerText='Enviar outra resposta' /&gt;" Guid="9f978e9f-37d5-494f-a9e0-4c7cef537b71" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0f0a47344d4a0f91314fa6d8075284eb.png" xmlns="">0hJb9ekQlkU6s0srfAe7MeQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

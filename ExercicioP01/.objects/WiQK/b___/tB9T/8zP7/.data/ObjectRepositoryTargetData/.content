@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="yuC1DyiT6UifGR2Ue21ntw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="3941d6f7-768c-41df-9d70-8c894e8d6faa" CvTextArea="1480, 113, 51, 16" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1466, 95, 80, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Log Out' tag='A' innertext='Log Out' /&gt;" Guid="c580a463-35b1-4254-ba6d-a56a0019176a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
-      <imageRef attrName="InformativeScreenshot" originalValue="165157133ae933054cbd617df80f6775.png" xmlns="">09TI4W0ianU28SEH1MPI0-w</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

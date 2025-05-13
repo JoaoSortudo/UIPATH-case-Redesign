@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryScreenData ContentHash="JOkYJGUaQE2VuDdw_xXcxA" Reference="4A76muYXPEOUgU0qw5e9qQ/6fwGgCH9bEqX6dOFJ1BtCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryScreenData.Data>
-    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Chrome" ContentHash="4w0IpUVUuEm5_nwv8KU5Tw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Reference="4A76muYXPEOUgU0qw5e9qQ/6fwGgCH9bEqX6dOFJ1BtCg" Selector="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" Url="https://docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" Version="V2">
-      <imageRef attrName="InformativeScreenshot" originalValue="16d876ee079845abf46c0372581f3c7e.jpg" xmlns="">0ltJBXSIDK02RrroQUUIZmg</imageRef>
-    </TargetApp>
-  </ObjectRepositoryScreenData.Data>
-</ObjectRepositoryScreenData>

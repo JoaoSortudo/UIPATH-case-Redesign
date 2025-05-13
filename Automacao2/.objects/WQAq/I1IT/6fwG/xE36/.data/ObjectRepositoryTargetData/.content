@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="zx0VvLxkVU2p1ViGfTmxWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="0f4a47db-faa6-4990-8aa3-89facb2a7ebd" CvElementArea="663, 812, 25, 25" CvType="RadioButton" DesignTimeRectangle="666, 815, 20, 20" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='i41' tag='DIV' class='AB7Lab Id5V1' aaname='' /&gt;" Guid="7f49406a-1c5e-48d8-9f5d-95c37993e546" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f7e6b766af853b52e7edc89597d10579.png" xmlns="">021MoXNdj4UK4Pwg4pIpwng</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
